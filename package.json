@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/brhestir/express-starter/issues"
   },
-  "homepage": "https://github.com/brhestir/express-starter#readme"
+  "homepage": "https://github.com/brhestir/express-starter#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
